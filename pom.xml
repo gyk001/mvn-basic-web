@@ -5,7 +5,7 @@
 	<packaging>pom</packaging>
 	<parent>
 		<groupId>cn.guoyukun.mvn</groupId>
-		<artifactId>mvn-basic-web</artifactId>
+		<artifactId>mvn-basic</artifactId>
 		<version>0.0.2</version>
 	</parent>
 	<scm>
